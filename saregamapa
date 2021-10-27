@@ -1,0 +1,41 @@
+{
+"name": "SPORT TV BY GK",
+"author": "GOKUL TEAMSENA",
+"image": "https://pbs.twimg.com/profile_images/963635604243218432/yVFOhVe8.jpg",
+"url": "https://yamcode.com/iptvlist-1",
+
+"stations": [
+{
+"name": "SA RE GA MA PA EP 1",
+"image": "https://www.desi-serials.cc/wp-content/uploads/2021/09/Sa-re-ga-ma-pa-300x169.jpg",
+"url": "http://tvarticles.org/vidd.php?id=1817863",
+"referer": "http://tvarticles.org/",
+"playInNatPlayer": "true"
+},
+{
+"name": "SA RE GA MA PA EP 2",
+"image": "https://www.desi-serials.cc/wp-content/uploads/2021/09/Sa-re-ga-ma-pa-300x169.jpg",
+"url": "http://tvarticles.org/vidd.php?id=1818367",
+"referer": "http://tvarticles.org/",
+"playInNatPlayer": "true"
+},
+{
+"name": "SA RE GA MA PA EP 3",
+"image": "https://www.desi-serials.cc/wp-content/uploads/2021/09/Sa-re-ga-ma-pa-300x169.jpg",
+"url": "http://tvarticles.org/vidd.php?id=1824011",
+"referer": "http://tvarticles.org/",
+"playInNatPlayer": "true"
+},
+{
+"name": "SA RE GA MA PA EP 4",
+"image": "https://www.desi-serials.cc/wp-content/uploads/2021/09/Sa-re-ga-ma-pa-300x169.jpg",
+"url": "http://tvarticles.org/vidd.php?id=1824394",
+"referer": "http://tvarticles.org/",
+"playInNatPlayer": "true"
+},
+
+
+
+
+]
+}
